@@ -2,7 +2,7 @@
 
 Mahasiswa Ilmu Komputer IPB
 
-*Bringkeng RT 01 RW 03, Kawunganten* \[newline]
+*Bringkeng RT 01 RW 03, Kawunganten* <br>
 *Cilacap, Jawa Tengah 53253* \[newline]
 *+62 857-2507-6128* \[newline]
 *rahayuninghardatin@gmail.com*
