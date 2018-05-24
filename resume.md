@@ -25,13 +25,13 @@ Juli 2005 - Juni 2011
 
 - Microsoft Office Power Point 2013 --- Ditmawa IPB dan Telkomsel
 - Paduan Suara --- Lucretia Choir Natal CIVA IPB 2017
-- Paduan Suara — Koor Mahasiswa Kemaki IPB
+- Paduan Suara --- Koor Mahasiswa Kemaki IPB
 - Pramuka Penegak Laksana
 - Pramuka Penegak Bantara
-- Lanarpika — SMA Negeri 1 Jeruklegi
-- LPK — Kwarcab Cilacap
-- Pecinta Alam — PLASMANSA
-- Jurnalistik — AKASO
+- Lanarpika --- SMA Negeri 1 Jeruklegi
+- LPK --- Kwarcab Cilacap
+- Pecinta Alam --- PLASMANSA
+- Jurnalistik --- AKASO
 - Pramuka Penggalang Terap
 - Pramuka Penggalang Rakit
 - Pramuka Penggalang Ramu
@@ -39,7 +39,7 @@ Juli 2005 - Juni 2011
 
 ## Keahlian
 
-- Microsoft Office Power Point 2013 — Master of Specialis
+- Microsoft Office Power Point 2013 --- Master of Specialis
 - Pramuka
 - Musik
 
