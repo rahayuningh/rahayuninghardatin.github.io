@@ -8,18 +8,18 @@ Mahasiswa Ilmu Komputer IPB
 *rahayuninghardatin@gmail.com*
 
 ## Pendidikan
-### Institut Pertanian Bogor — *Calon S.Komp*
+### Institut Pertanian Bogor --- *Calon S.Komp*
 
-Agustus 2017 - April 2021: Calon Sarjana Ilmu Komputer
+Agustus 2017 -- April 2021: Calon Sarjana Ilmu Komputer
 ### SMA Negeri 1 Jeruklegi
 
-Juli 2014 - Mei 2017
+Juli 2014 -- Mei 2017
 ### SMP Negeri 1 Kawunganten
 
-Juli 2011 - Mei 2014
+Juli 2011 -- Mei 2014
 ### SD Negeri Bringkeng 03
 
-Juli 2005 - Juni 2011
+Juli 2005 -- Juni 2011
 
 ## Pelatihan
 
