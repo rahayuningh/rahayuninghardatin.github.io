@@ -1,2 +1,0 @@
-# rahayuninghardatin.github.io
-
