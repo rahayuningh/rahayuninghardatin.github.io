@@ -2,10 +2,10 @@
 
 Mahasiswa Ilmu Komputer IPB
 
-*Bringkeng RT 01 RW 03, Kawunganten*\
-\*Cilacap, Jawa Tengah 53253*\
-\*+62 857-2507-6128*\
-\*rahayuninghardatin@gmail.com*
+*Bringkeng RT 01 RW 03, Kawunganten*\ 
+*Cilacap, Jawa Tengah 53253*\ 
+*+62 857-2507-6128*\ 
+*rahayuninghardatin@gmail.com*
 
 ## Pendidikan
 ### Institut Pertanian Bogor — *Calon S.Komp*
